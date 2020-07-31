@@ -6,7 +6,6 @@ import axios from 'axios';
 function Container() {
   const [cards, setCards]=useState([]);
   const [ogCardsCopy, setCopy]= useState([]);
-
   useEffect(() => {
     axios
     .get("https://jsonplaceholder.typicode.com/users")
@@ -17,9 +16,11 @@ function Container() {
     })
     .catch(err => console.log(err));
   },[])
+
+ 
   
   return (
-    <div>
+    <div className="container">
       <header className="header"><h1>Hello Robots</h1></header>
       <SearchBar ogCardsCopy={ogCardsCopy} setCards={setCards}  />
       <Card cards={cards}/>

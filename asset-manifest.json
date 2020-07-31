@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hello-robot/static/css/main.f99abe25.chunk.css",
+    "main.css": "/hello-robot/static/css/main.13df93ed.chunk.css",
     "main.js": "/hello-robot/static/js/main.37e6e4e7.chunk.js",
     "main.js.map": "/hello-robot/static/js/main.37e6e4e7.chunk.js.map",
     "runtime-main.js": "/hello-robot/static/js/runtime-main.b2b5330a.js",
@@ -8,16 +8,16 @@
     "static/js/2.1378fc75.chunk.js": "/hello-robot/static/js/2.1378fc75.chunk.js",
     "static/js/2.1378fc75.chunk.js.map": "/hello-robot/static/js/2.1378fc75.chunk.js.map",
     "index.html": "/hello-robot/index.html",
-    "precache-manifest.857547987fd751ad16b6dcd9c2a76172.js": "/hello-robot/precache-manifest.857547987fd751ad16b6dcd9c2a76172.js",
+    "precache-manifest.5a3810917c605b3cf27badc68a7501bf.js": "/hello-robot/precache-manifest.5a3810917c605b3cf27badc68a7501bf.js",
     "service-worker.js": "/hello-robot/service-worker.js",
-    "static/css/main.f99abe25.chunk.css.map": "/hello-robot/static/css/main.f99abe25.chunk.css.map",
+    "static/css/main.13df93ed.chunk.css.map": "/hello-robot/static/css/main.13df93ed.chunk.css.map",
     "static/js/2.1378fc75.chunk.js.LICENSE.txt": "/hello-robot/static/js/2.1378fc75.chunk.js.LICENSE.txt",
     "static/media/index.css": "/hello-robot/static/media/JMH.f5d3f71a.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.b2b5330a.js",
     "static/js/2.1378fc75.chunk.js",
-    "static/css/main.f99abe25.chunk.css",
+    "static/css/main.13df93ed.chunk.css",
     "static/js/main.37e6e4e7.chunk.js"
   ]
 }

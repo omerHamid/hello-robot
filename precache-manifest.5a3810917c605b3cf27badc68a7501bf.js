@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f3a58484ca555ae827f6787342903e9",
+    "revision": "0108cb922f2d4d69f288363631d8ba34",
     "url": "/hello-robot/index.html"
   },
   {
-    "revision": "51b042026bfb5633e17c",
-    "url": "/hello-robot/static/css/main.f99abe25.chunk.css"
+    "revision": "ca72563c918f5bed9059",
+    "url": "/hello-robot/static/css/main.13df93ed.chunk.css"
   },
   {
     "revision": "d00e54cd8dac045d6351",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hello-robot/static/js/2.1378fc75.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "51b042026bfb5633e17c",
+    "revision": "ca72563c918f5bed9059",
     "url": "/hello-robot/static/js/main.37e6e4e7.chunk.js"
   },
   {

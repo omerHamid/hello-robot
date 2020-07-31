@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/hello-robot/static/css/main.15e6bf5c.chunk.css",
-    "main.js": "/hello-robot/static/js/main.ab10fbc2.chunk.js",
-    "main.js.map": "/hello-robot/static/js/main.ab10fbc2.chunk.js.map",
+    "main.css": "/hello-robot/static/css/main.68e62dfb.chunk.css",
+    "main.js": "/hello-robot/static/js/main.37e6e4e7.chunk.js",
+    "main.js.map": "/hello-robot/static/js/main.37e6e4e7.chunk.js.map",
     "runtime-main.js": "/hello-robot/static/js/runtime-main.b2b5330a.js",
     "runtime-main.js.map": "/hello-robot/static/js/runtime-main.b2b5330a.js.map",
     "static/js/2.1378fc75.chunk.js": "/hello-robot/static/js/2.1378fc75.chunk.js",
     "static/js/2.1378fc75.chunk.js.map": "/hello-robot/static/js/2.1378fc75.chunk.js.map",
     "index.html": "/hello-robot/index.html",
-    "precache-manifest.001a7005631dc605a271c3ee7199d26a.js": "/hello-robot/precache-manifest.001a7005631dc605a271c3ee7199d26a.js",
+    "precache-manifest.7e61609b4f04b1fb7290ab68bbf9d1ad.js": "/hello-robot/precache-manifest.7e61609b4f04b1fb7290ab68bbf9d1ad.js",
     "service-worker.js": "/hello-robot/service-worker.js",
-    "static/css/main.15e6bf5c.chunk.css.map": "/hello-robot/static/css/main.15e6bf5c.chunk.css.map",
+    "static/css/main.68e62dfb.chunk.css.map": "/hello-robot/static/css/main.68e62dfb.chunk.css.map",
     "static/js/2.1378fc75.chunk.js.LICENSE.txt": "/hello-robot/static/js/2.1378fc75.chunk.js.LICENSE.txt",
     "static/media/index.css": "/hello-robot/static/media/JMH.f5d3f71a.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.b2b5330a.js",
     "static/js/2.1378fc75.chunk.js",
-    "static/css/main.15e6bf5c.chunk.css",
-    "static/js/main.ab10fbc2.chunk.js"
+    "static/css/main.68e62dfb.chunk.css",
+    "static/js/main.37e6e4e7.chunk.js"
   ]
 }
